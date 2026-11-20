@@ -1,0 +1,7 @@
+# Underwater Fish Dataset.
+train: data/Underwater Fish Dataset/images/train
+val: data/Underwater Fish Dataset/images/val
+test:
+  - "data/Underwater Fish Dataset/test/Routine swimming/images"
+names:
+  0: fish
